@@ -24,4 +24,4 @@ Each problem is saved as a separate `.py` file and organized by topic for easy a
 
 ## Author
 
-Maintained by **Nabeel Ahmad** — solving all 115 Python problems on HackerRank.
+Maintained by **Nabeel Ahmad** - solving all 115 Python problems on HackerRank.
