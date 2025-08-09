@@ -13,6 +13,7 @@ Each problem is saved as a separate `.py` file and organized by topic for easy a
 - Sets
 - Math
 - Itertools
+- Collections
 
 ---
 
