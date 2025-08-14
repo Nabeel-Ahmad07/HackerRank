@@ -20,6 +20,7 @@ Each problem is saved as a separate `.py` file and organized by topic for easy a
 - Built-Ins
 - Python Functionals
 - Regex and Parsing
+- XML
 
 ---
 
