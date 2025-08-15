@@ -22,6 +22,7 @@ Each problem is saved as a separate `.py` file and organized by topic for easy a
 - Regex and Parsing
 - XML
 - Closures & Decorators
+- Numpy
 - Debugging
 
 ---
@@ -36,4 +37,5 @@ Each problem is saved as a separate `.py` file and organized by topic for easy a
 
 ## Author
 
-Maintained by **Nabeel Ahmad** - solving all 115 Python problems on HackerRank.
+Maintained by **Nabeel Ahmad** - solved all 115 Python problems on HackerRank.
+Completed on **August 15th, 2025**.
